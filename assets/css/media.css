@@ -1,0 +1,84 @@
+@media only screen and (max-width: 1920px){}
+
+@media only screen and (max-width: 1650px){}
+
+@media only screen and (max-width: 1350px){
+    .rsp_img{display: block;}
+    .dsk_img{display: none;}
+}
+
+@media only screen and (max-width: 1199px){
+    .ftr_middle{display: none;}
+    .banner_text h1{font-size: 25px;line-height: 36px;margin-bottom: 15px;}
+    .banner_text h2{font-size: 25px;margin-bottom: 30px;}
+    .bnr_btn a{font-size: 20px;}
+    .contest_section{margin-top: 100px;}
+    .contest_list_h li{margin: 12px 0;}
+    .open_contest h3{font-size: 20px;margin-bottom: 16px;}
+    .opn_cnts h5{font-size: 13px;}
+    .ovr_txt{width: 100%;text-align: right;}
+    .fotr_txt{text-align: left;}
+    .vte_dv h4, .vte_dv h5{font-size: 40px;}
+    .rnk_img img{width: 65px;height: auto;}
+    .rank_txt h3{font-size: 22px;}
+    .fnl_trh img{width: 30px;}
+    .rank_txt h4, .rank_txt h5{font-size: 16px;}
+    .rank_txt a, .rank_txt h4 a, .rank_txt h5 a{font-size: 16px;}
+    .rnk_div_del h4{margin-bottom: 10px;}
+}
+
+@media only screen and (max-width: 991px){
+    .hdr_mnu{display: none;}
+    .rsp_menu{display: block;}
+    .opn_cntest_head h3{font-size: 14px;}
+    .opc_ftr_cont{width: 48%;}
+    .opn_cntest_btn{padding: 10px;}
+    .opn_cntest_btn a{font-size: 16px;}
+    .contest_heading h1, .voting_txt h3{font-size: 25px;} 
+    .vte_dv h4, .vte_dv h5, .trp_btn a{font-size: 30px;}
+    .trp_btn{padding: 10px 0;}
+    .enty_div h4, .enty_div a{font-size: 20px;}
+    .rnk_img img{width: 120px;}
+    .rank_txt{margin-top: 20px;padding: 0;}
+    .rank_txt h3{font-size: 25px;}
+    .ent_cmpl_div{margin: 20px 10px;}
+    .rank_txt{padding-left: 10px;}
+    .ent_img img{height: auto;}
+}
+
+@media only screen and (max-width: 767px){
+    .open_contest h3{font-size: 30px;line-height: 30px;}
+    .opn_cnts h5{font-size: 16px;}
+    .opn_cntest_head h3{font-size: 20px;}
+    .opn_cntest_btn{padding: 20px 10px;}
+    .opn_cntest_btn a{font-size: 24px;}
+    .votin_meter{padding: 30px 20px;text-align: center;}
+    .vte_txt_div{padding-top: 20px;text-align: center;}
+    .voting_txt h3{left: 50%;transform: translate(-50%, -50%);}
+    .enty_div{text-align: center;}
+    .curnt_entr{margin-top: 20px;width: 100%;text-align: center;}
+}
+
+@media only screen and (max-width: 640px){}
+
+@media only screen and (max-width: 576px){
+    .ovr_txt, .ftr_txt p{text-align: left;}
+    .ftr_txt p{margin-top: 20px;}
+    .contest_heading h1{font-size: 22px;}
+}
+
+@media only screen and (max-width: 479px){
+    .voting_txt h3{font-size: 22px;}
+    .vte_dv h4, .vte_dv h5, .trp_btn a{font-size: 20px;line-height: 22px;}
+    .upcoming_div img{height: auto;}
+    .ent_div h5{font-size: 18px;margin-bottom: 20px;}
+    .ent_div a{font-size: 13px;}
+}
+
+@media only screen and (max-width: 400px){
+    .prize_section h3{font-size: 20px;}
+    .voting_txt h3{font-size: 16px;}
+    .vte_dv{margin: 0 3px;}
+    .vte_dv h4, .vte_dv h5, .trp_btn a{font-size: 18px;line-height: 20px;}
+    .enty_div h4, .enty_div a{font-size: 18px;}
+}
